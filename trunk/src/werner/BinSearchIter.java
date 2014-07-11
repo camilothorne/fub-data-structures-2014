@@ -1,4 +1,7 @@
 package werner;
+
+
+
 public class BinSearchIter {
 
 	static int searchIter(int A[], int q) {
